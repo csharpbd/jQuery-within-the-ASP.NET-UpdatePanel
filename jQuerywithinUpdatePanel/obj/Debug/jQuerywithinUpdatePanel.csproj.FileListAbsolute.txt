@@ -1,0 +1,10 @@
+E:\Job\DigitSoft\Project\jQuerywithinUpdatePanel\jQuerywithinUpdatePanel\bin\jQuerywithinUpdatePanel.dll
+E:\Job\DigitSoft\Project\jQuerywithinUpdatePanel\jQuerywithinUpdatePanel\bin\jQuerywithinUpdatePanel.pdb
+E:\Job\DigitSoft\Project\jQuerywithinUpdatePanel\jQuerywithinUpdatePanel\obj\Debug\ResolveAssemblyReference.cache
+E:\Job\DigitSoft\Project\jQuerywithinUpdatePanel\jQuerywithinUpdatePanel\obj\Debug\jQuerywithinUpdatePanel.dll
+E:\Job\DigitSoft\Project\jQuerywithinUpdatePanel\jQuerywithinUpdatePanel\obj\Debug\jQuerywithinUpdatePanel.pdb
+E:\Work\Dragon\jQuerywithinUpdatePanel\jQuerywithinUpdatePanel\jQuerywithinUpdatePanel\bin\jQuerywithinUpdatePanel.dll
+E:\Work\Dragon\jQuerywithinUpdatePanel\jQuerywithinUpdatePanel\jQuerywithinUpdatePanel\bin\jQuerywithinUpdatePanel.pdb
+E:\Work\Dragon\jQuerywithinUpdatePanel\jQuerywithinUpdatePanel\jQuerywithinUpdatePanel\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Dragon\jQuerywithinUpdatePanel\jQuerywithinUpdatePanel\jQuerywithinUpdatePanel\obj\Debug\jQuerywithinUpdatePanel.dll
+E:\Work\Dragon\jQuerywithinUpdatePanel\jQuerywithinUpdatePanel\jQuerywithinUpdatePanel\obj\Debug\jQuerywithinUpdatePanel.pdb
